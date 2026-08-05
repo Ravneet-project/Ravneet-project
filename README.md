@@ -1,6 +1,17 @@
 # Ravneet Sawhney
 
-> **Full Stack Developer | MERN Stack Enthusiast | MCA Graduate (2025)**
+<div align="center">
+
+### Full Stack Developer | MERN Stack Enthusiast | MCA Graduate 2025
+
+Building scalable web applications, REST APIs and database-driven software solutions.
+
+[Portfolio](https://ravneetportfolio.netlify.app) |
+[GitHub](https://github.com/Ravneet-project) |
+[LinkedIn](https://www.linkedin.com/in/ravneet-kaur-aa2b332a8/) |
+[Email](mailto:ravneet.sawhney123@gmail.com)
+
+</div>
 
 ---
 
@@ -9,456 +20,654 @@
 ```mermaid
 flowchart LR
 
-A[MCA Graduate 2025]
+    A[MCA Graduate 2025] --> B[Full Stack Developer]
 
-A --> B[Software Developer]
+    B --> C[Frontend Development]
+    B --> D[Backend Development]
+    B --> E[Database Management]
+    B --> F[Development Tools]
 
-B --> C[Frontend]
-B --> D[Backend]
-B --> E[Database]
-B --> F[Dev Tools]
+    C --> C1[React.js]
+    C --> C2[JavaScript]
+    C --> C3[TypeScript]
+    C --> C4[HTML5]
+    C --> C5[CSS3]
+    C --> C6[Bootstrap]
 
-C --> React
-C --> JavaScript
-C --> TypeScript
-C --> HTML
-C --> CSS
-C --> Bootstrap
+    D --> D1[Node.js]
+    D --> D2[Express.js]
+    D --> D3[PHP]
+    D --> D4[REST APIs]
 
-D --> NodeJS
-D --> ExpressJS
-D --> PHP
-D --> RESTAPI
+    E --> E1[(MongoDB)]
+    E --> E2[(MySQL)]
 
-E --> MongoDB
-E --> MySQL
+    F --> F1[Git]
+    F --> F2[GitHub]
+    F --> F3[Postman]
+    F --> F4[VS Code]
+    F --> F5[npm]
+    F --> F6[XAMPP]
 
-F --> Git
-F --> GitHub
-F --> Postman
-F --> VSCode
+    C1 --> G[Full Stack Projects]
+    D2 --> G
+    D3 --> G
+    E1 --> G
+    E2 --> G
 
-React --> Projects
-ExpressJS --> Projects
-MongoDB --> Projects
-PHP --> Projects
-
-Projects --> Growth[Continuous Learning]
+    G --> H[Continuous Learning]
+    H --> I[Software Engineering Career]
 ```
 
 ---
 
-# About
+## About Me
 
-I am a passionate Full Stack Developer who enjoys building scalable, user-centric web applications and solving real-world problems through technology. I focus on writing clean, maintainable code while continuously improving my knowledge of modern software engineering practices.
+I am a Full Stack Developer passionate about building scalable, user-centric and maintainable web applications.
+
+My development experience includes frontend interfaces, backend development, REST API integration, relational and NoSQL databases, responsive design and complete project implementation.
+
+I enjoy transforming ideas into functional software solutions while continuously improving my understanding of modern development practices, system design, data structures and application architecture.
+
+```text
+Current Role      : Full Stack Developer
+Qualification     : Master of Computer Applications
+Graduation Year   : 2025
+Primary Focus     : MERN Stack Development
+Secondary Stack   : PHP and MySQL
+Career Status     : Open to Software Developer Opportunities
+```
 
 ---
 
-# Technical Skills
+## Developer Class Model
 
 ```mermaid
 classDiagram
+direction LR
 
-class Frontend{
+class RavneetSawhney {
+    +String role
+    +String qualification
+    +String specialization
+    +buildWebApplications()
+    +developRESTAPIs()
+    +designDatabases()
+    +solveProblems()
+    +learnContinuously()
+}
+
+class FrontendDevelopment {
+    +ReactJS
+    +JavaScript
+    +TypeScript
+    +HTML5
+    +CSS3
+    +Bootstrap
+    +buildResponsiveInterfaces()
+    +createReusableComponents()
+}
+
+class BackendDevelopment {
+    +NodeJS
+    +ExpressJS
+    +PHP
+    +RESTAPIs
+    +Authentication
+    +implementBusinessLogic()
+}
+
+class DatabaseManagement {
+    +MongoDB
+    +MySQL
+    +designSchema()
+    +optimizeQueries()
+    +validateData()
+}
+
+class DevelopmentTools {
+    +Git
+    +GitHub
+    +Postman
+    +VSCode
+    +npm
+    +XAMPP
+}
+
+class SoftwareProjects {
+    +FeedOne
+    +SmartBookmarkApp
+    +PortfolioWebsite
+    +ComplaintsManagementSystem
+}
+
+RavneetSawhney --> FrontendDevelopment : develops
+RavneetSawhney --> BackendDevelopment : implements
+RavneetSawhney --> DatabaseManagement : manages
+RavneetSawhney --> DevelopmentTools : uses
+RavneetSawhney --> SoftwareProjects : builds
+```
+
+---
+
+## Technical Skills
+
+### Frontend Development
+
+```text
 React.js
-JavaScript
+JavaScript ES6+
 TypeScript
 HTML5
 CSS3
 Bootstrap
-Responsive Design
-}
+Responsive Web Design
+Reusable Component Development
+```
 
-class Backend{
+### Backend Development
+
+```text
 Node.js
 Express.js
 PHP
-REST APIs
-}
+RESTful API Development
+Server-Side Programming
+Authentication and Authorization
+Request Validation
+Business Logic Development
+```
 
-class Database{
+### Databases
+
+```text
 MongoDB
 MySQL
-}
+Database Design
+Schema Planning
+CRUD Operations
+Query Optimization
+Data Validation
+```
 
-class Tools{
+### Tools and Technologies
+
+```text
 Git
 GitHub
-VS Code
 Postman
+Visual Studio Code
 npm
 XAMPP
-}
-
-Frontend --> Backend
-Backend --> Database
-Backend --> Tools
+Vite
 ```
 
 ---
 
-# Development Workflow
+## Technical Capability Matrix
+
+| Development Area | Technologies | Primary Focus |
+|---|---|---|
+| Frontend | React.js, JavaScript, TypeScript | Responsive and reusable interfaces |
+| Backend | Node.js, Express.js, PHP | REST APIs and server-side logic |
+| Database | MongoDB, MySQL | Database design and query management |
+| Version Control | Git, GitHub | Repository and source-code management |
+| API Testing | Postman | Endpoint testing and validation |
+| Development Tools | VS Code, npm, XAMPP | Development, debugging and execution |
+| Problem Solving | DSA, OOP | Logical thinking and optimized solutions |
+
+---
+
+## Application Architecture
 
 ```mermaid
 flowchart LR
 
-Idea --> Research
+    User[Application User]
 
-Research --> Planning
+    subgraph ClientLayer[Client Layer]
+        React[React.js]
+        JavaScript[JavaScript]
+        TypeScript[TypeScript]
+        HTML[HTML5]
+        CSS[CSS3]
+        Bootstrap[Bootstrap]
+    end
 
-Planning --> UI_Design
+    subgraph APILayer[API Layer]
+        REST[REST API]
+        Validation[Request Validation]
+        Authentication[Authentication]
+    end
 
-UI_Design --> Frontend
+    subgraph ServerLayer[Server Layer]
+        Node[Node.js]
+        Express[Express.js]
+        PHP[PHP]
+        Logic[Business Logic]
+    end
 
-Frontend --> Backend
+    subgraph DataLayer[Data Layer]
+        MongoDB[(MongoDB)]
+        MySQL[(MySQL)]
+    end
 
-Backend --> Database
+    User --> React
+    React --> JavaScript
+    React --> TypeScript
+    React --> HTML
+    React --> CSS
+    CSS --> Bootstrap
 
-Database --> API_Integration
+    React --> REST
+    REST --> Validation
+    Validation --> Authentication
+    Authentication --> Express
+    Express --> Node
+    REST --> PHP
 
-API_Integration --> Testing
+    Node --> Logic
+    PHP --> Logic
 
-Testing --> Deployment
-
-Deployment --> Maintenance
-
-Maintenance --> Improvements
+    Logic --> MongoDB
+    Logic --> MySQL
 ```
 
 ---
 
-# Featured Projects
+## Development Workflow
+
+```mermaid
+flowchart LR
+
+    Requirement[Requirement Analysis]
+    --> Research[Research]
+    --> Planning[Project Planning]
+    --> Design[UI and Architecture Design]
+    --> Frontend[Frontend Development]
+    --> Backend[Backend Development]
+    --> Database[Database Integration]
+    --> API[API Integration]
+    --> Testing[Testing and Debugging]
+    --> Deployment[Deployment]
+    --> Monitoring[Monitoring]
+    --> Improvement[Continuous Improvement]
+
+    Improvement --> Requirement
+```
+
+---
+
+## API Request Lifecycle
+
+```mermaid
+sequenceDiagram
+    actor User
+    participant UI as React Interface
+    participant API as REST API
+    participant Server as Node / Express / PHP
+    participant DB as MongoDB / MySQL
+
+    User->>UI: Performs an action
+    UI->>API: Sends HTTP request
+    API->>Server: Validates request
+    Server->>DB: Reads or updates data
+    DB-->>Server: Returns result
+    Server-->>API: Creates response
+    API-->>UI: Returns JSON response
+    UI-->>User: Displays updated information
+```
+
+---
+
+## Featured Projects
 
 ```mermaid
 flowchart TD
 
-Projects
+    Projects[Featured Projects]
 
-Projects --> FeedOne
-Projects --> Portfolio
-Projects --> Bookmark
-Projects --> Complaint
+    Projects --> FeedOne[FeedOne]
+    Projects --> Bookmark[Smart Bookmark App]
+    Projects --> Portfolio[Personal Portfolio]
+    Projects --> Complaint[Academic Complaints System]
 
-FeedOne --> PHP
-FeedOne --> MySQL
-FeedOne --> Bootstrap
+    FeedOne --> F1[Donation Management]
+    FeedOne --> F2[Donor and NGO Coordination]
+    FeedOne --> F3[Administrative Management]
+    FeedOne --> F4[PHP, MySQL and Bootstrap]
 
-Portfolio --> React
-Portfolio --> Vite
+    Bookmark --> B1[Bookmark Organization]
+    Bookmark --> B2[Resource Management]
+    Bookmark --> B3[TypeScript and JavaScript]
 
-Bookmark --> TypeScript
+    Portfolio --> P1[Project Showcase]
+    Portfolio --> P2[Responsive User Interface]
+    Portfolio --> P3[React.js and Vite]
 
-Complaint --> HTML
-Complaint --> CSS
-Complaint --> JavaScript
+    Complaint --> C1[Complaint Registration]
+    Complaint --> C2[Complaint Tracking]
+    Complaint --> C3[HTML, CSS and JavaScript]
 ```
 
 ---
 
-## FeedOne – Donation Management System
+### FeedOne – Donation Management System
 
-Donation Management Platform connecting NGOs and Donors.
+FeedOne is a web-based donation management platform designed to connect donors and NGOs through a centralized system.
 
-**Stack**
+The application helps simplify donation tracking, NGO coordination and administrative management.
 
-- PHP
-- MySQL
-- Bootstrap
-- JavaScript
-
----
-
-## Smart Bookmark App
-
-Bookmark Management Application developed using TypeScript.
-
-**Stack**
-
-- TypeScript
-- JavaScript
-
----
-
-## Personal Portfolio
-
-Portfolio built with React & Vite.
-
-**Live**
-
-https://ravneetportfolio.netlify.app
-
----
-
-## Academic Complaints Management System
-
-Complaint Registration and Tracking Platform.
-
-**Stack**
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-# Software Engineering Journey
-
-```mermaid
-journey
-title Learning Journey
-
-section Fundamentals
-
-Programming: 5: Me
-
-DSA: 4: Me
-
-OOP: 4: Me
-
-section Web Development
-
-Frontend: 5: Me
-
-Backend: 4: Me
-
-REST APIs: 5: Me
-
-section Database
-
-MongoDB: 4: Me
-
-MySQL: 5: Me
-
-section Deployment
-
-GitHub: 5: Me
-
-Git: 5: Me
-
-Learning Cloud: 3: Me
+```text
+Technology Stack
+├── PHP
+├── MySQL
+├── Bootstrap
+└── JavaScript
 ```
 
 ---
 
-# Current Focus
+### Smart Bookmark App
+
+A bookmark management application developed using TypeScript to help users organize, manage and access saved web resources efficiently.
+
+```text
+Technology Stack
+├── TypeScript
+└── JavaScript
+```
+
+---
+
+### Personal Portfolio Website
+
+A responsive portfolio website created to showcase my projects, technical skills and development experience.
+
+```text
+Technology Stack
+├── React.js
+├── Vite
+└── CSS3
+```
+
+Live Project:
+
+[Ravneet Portfolio](https://ravneetportfolio.netlify.app)
+
+---
+
+### Academic Complaints Management System
+
+A web-based complaint management solution designed to streamline complaint registration and tracking within educational institutions.
+
+```text
+Technology Stack
+├── HTML5
+├── CSS3
+└── JavaScript
+```
+
+---
+
+## Current Focus
 
 ```mermaid
 mindmap
-root((Current Focus))
-
-MERN Stack
-
-Backend APIs
-
-Authentication
-
-Database Design
-
-Software Engineering
-
-System Design
-
-DSA
-
-Open Source
-
-Performance Optimization
-
-Clean Architecture
+  root((Current Focus))
+    MERN Development
+      React Applications
+      Node.js
+      Express.js
+      MongoDB
+    Backend Engineering
+      REST APIs
+      Authentication
+      Authorization
+      Request Validation
+    Database Engineering
+      Schema Design
+      Query Optimization
+      Data Validation
+    Problem Solving
+      Data Structures
+      Algorithms
+      Object-Oriented Programming
+    Software Engineering
+      Clean Code
+      Scalable Architecture
+      Testing
+      Maintainability
+    Career Development
+      Open Source
+      Technical Interviews
+      Software Developer Roles
 ```
 
 ---
 
-# Career Roadmap
+## Career Roadmap
 
 ```mermaid
 flowchart TD
 
-Start([MCA])
+    MCA[MCA Graduate 2025]
+    --> Foundation[Programming Foundation]
+    --> Web[Web Development]
 
-Start --> Learn
+    Web --> Frontend[Frontend Development]
+    Web --> Backend[Backend Development]
+    Web --> Database[Database Management]
 
-Learn --> Frontend
+    Frontend --> React[React.js]
+    Backend --> Node[Node.js and Express.js]
+    Backend --> PHP[PHP Development]
+    Database --> MongoDB[(MongoDB)]
+    Database --> MySQL[(MySQL)]
 
-Learn --> Backend
+    React --> MERN[MERN Applications]
+    Node --> MERN
+    MongoDB --> MERN
 
-Frontend --> React
+    PHP --> FullStack[Full Stack Projects]
+    MySQL --> FullStack
 
-Backend --> Node
+    MERN --> Production[Production-Ready Applications]
+    FullStack --> Production
 
-Backend --> Express
-
-Backend --> PHP
-
-Node --> MERN
-
-PHP --> FullStack
-
-MERN --> Projects
-
-Projects --> Internship
-
-Internship --> SoftwareEngineer
-
-SoftwareEngineer --> SeniorEngineer
-
-SeniorEngineer --> TechLead
-
-TechLead --> Architect
+    Production --> Developer[Software Developer]
+    Developer --> Engineer[Software Engineer]
+    Engineer --> Growth[Continuous Professional Growth]
 ```
 
 ---
 
-# Project Architecture
-
-```mermaid
-graph LR
-
-User
-
-User --> React
-
-React --> Express
-
-Express --> Node
-
-Node --> MongoDB
-
-Node --> MySQL
-
-Express --> RESTAPI
-
-RESTAPI --> ExternalServices
-
-MongoDB --> Data
-
-MySQL --> Data
-```
-
----
-
-# Software Development Lifecycle
-
-```mermaid
-flowchart LR
-
-Requirement
-
-Requirement --> Analysis
-
-Analysis --> Design
-
-Design --> Development
-
-Development --> Testing
-
-Testing --> Deployment
-
-Deployment --> Monitoring
-
-Monitoring --> Enhancement
-
-Enhancement --> Requirement
-```
-
----
-
-# Timeline
-
-```mermaid
-timeline
-title Career Timeline
-
-2023 : Started MCA
-
-2023 : Web Development
-
-2024 : PHP & MySQL Projects
-
-2024 : JavaScript & React
-
-2025 : MCA Completed
-
-2025 : Built MERN Applications
-
-2025 : Portfolio Launch
-
-2026 : Software Developer Opportunities
-```
-
----
-
-# GitHub Workflow
+## Git Development Workflow
 
 ```mermaid
 gitGraph
 
-commit id:"Learn"
+    commit id: "Project Setup"
 
-branch frontend
+    branch frontend
+    checkout frontend
+    commit id: "Build UI"
+    commit id: "Add React Components"
 
-checkout frontend
+    checkout main
+    merge frontend
 
-commit id:"React"
+    branch backend
+    checkout backend
+    commit id: "Create REST API"
+    commit id: "Add Authentication"
 
-checkout main
+    checkout main
+    merge backend
 
-merge frontend
+    branch database
+    checkout database
+    commit id: "Design Schema"
+    commit id: "Connect Database"
 
-branch backend
+    checkout main
+    merge database
 
-checkout backend
-
-commit id:"Node"
-
-commit id:"Express"
-
-checkout main
-
-merge backend
-
-branch database
-
-checkout database
-
-commit id:"MongoDB"
-
-commit id:"MySQL"
-
-checkout main
-
-merge database
-
-commit id:"Deploy"
+    commit id: "Test Application"
+    commit id: "Deploy Project"
 ```
 
 ---
 
-# Contact
+## GitHub Profile Statistics
 
-| Platform | Link |
-|----------|------|
-| Portfolio | https://ravneetportfolio.netlify.app |
-| GitHub | https://github.com/Ravneet-project |
-| LinkedIn | https://www.linkedin.com/in/ravneet-kaur-aa2b332a8 |
-| Email | ravneet.sawhney123@gmail.com |
+<div align="center">
+
+<img
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="Ravneet Sawhney Profile Details"
+    width="100%"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+    src="./profile-summary-card-output/github_dark/3-stats.svg"
+    alt="Ravneet Sawhney GitHub Statistics"
+    width="49%"
+/>
+
+<img
+    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+    alt="Ravneet Sawhney Productive Time"
+    width="49%"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    alt="Repositories Per Language"
+    width="49%"
+/>
+
+<img
+    src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Most Commit Language"
+    width="49%"
+/>
+
+</div>
 
 ---
 
-# Career Objective
+## Contribution Streak
 
-To contribute as a Software Developer by building scalable applications, writing clean and maintainable code, collaborating with engineering teams, and continuously learning modern technologies while solving meaningful real-world problems.
+<div align="center">
+
+<img
+    src="./generated/streak-stats.svg"
+    alt="Ravneet Sawhney GitHub Contribution Streak"
+    width="80%"
+/>
+
+</div>
 
 ---
 
-> **"Great software is built through curiosity, consistency, and continuous improvement."**
-## GitHub Stats
+## Contribution Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravneet-project&show_icons=true&theme=github_dark&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ravneet-project&theme=github-dark&hide_border=true)
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&theme=github-dark&hide_border=true&area=true"
+    alt="Ravneet Sawhney GitHub Contribution Activity"
+    width="100%"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravneet-project&layout=compact&theme=github_dark&hide_border=true)
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&theme=github-compact)
-https://github-readme-stats.vercel.app/api?username=Ravneet-project
+---
+
+## Developer Query
+
+```sql
+SELECT
+    name,
+    role,
+    qualification,
+    specialization,
+    career_status
+FROM developers
+WHERE github_username = 'Ravneet-project';
+```
+
+```text
++------------------+----------------------+----------------+--------------------+---------------------------+
+| Name             | Role                 | Qualification  | Specialization     | Career Status             |
++------------------+----------------------+----------------+--------------------+---------------------------+
+| Ravneet Sawhney  | Full Stack Developer | MCA Graduate   | MERN Development   | Open to Opportunities     |
++------------------+----------------------+----------------+--------------------+---------------------------+
+```
+
+---
+
+## Career Objective
+
+To obtain a Software Developer position where I can apply my technical knowledge, contribute to meaningful projects, collaborate with experienced engineering teams and continue growing as a software engineering professional.
+
+```mermaid
+flowchart LR
+
+    Knowledge[Technical Knowledge] --> Developer[Software Developer]
+    Projects[Project Experience] --> Developer
+    ProblemSolving[Problem Solving] --> Developer
+    Teamwork[Team Collaboration] --> Developer
+    Learning[Continuous Learning] --> Developer
+
+    Developer --> Solutions[Build Valuable Solutions]
+    Solutions --> Impact[Create Meaningful Impact]
+    Impact --> Growth[Grow as a Software Engineer]
+```
+
+---
+
+## Education
+
+```text
+Master of Computer Applications
+
+Duration    : 2023 – 2025
+Status      : Completed
+Focus Areas : Software Development, Web Technologies,
+              Databases and Problem Solving
+```
+
+---
+
+## Connect With Me
+
+| Platform | Profile |
+|---|---|
+| Portfolio | [ravneetportfolio.netlify.app](https://ravneetportfolio.netlify.app) |
+| GitHub | [github.com/Ravneet-project](https://github.com/Ravneet-project) |
+| LinkedIn | [Ravneet Sawhney](https://www.linkedin.com/in/ravneet-kaur-aa2b332a8/) |
+| Email | [ravneet.sawhney123@gmail.com](mailto:ravneet.sawhney123@gmail.com) |
+
+---
+
+<div align="center">
+
+### Learn. Build. Test. Deploy. Improve.
+
+Great software is created through curiosity, consistency, clean architecture and continuous improvement.
+
+</div>
