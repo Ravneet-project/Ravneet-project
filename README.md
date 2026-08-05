@@ -454,12 +454,11 @@ To contribute as a Software Developer by building scalable applications, writing
 > **"Great software is built through curiosity, consistency, and continuous improvement."**
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ravneet-project&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravneet-project&show_icons=true&theme=github_dark&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravneet-project&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ravneet-project&theme=github-dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravneet-project&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravneet-project&layout=compact&theme=github_dark&hide_border=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravneet-project&theme=github)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&theme=github-compact)
+https://github-readme-stats.vercel.app/api?username=Ravneet-project
