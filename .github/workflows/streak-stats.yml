@@ -1,17 +1,17 @@
-name: Generate GitHub Streak Stats
+name: Update Streak Stats
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "0 3 * * *"
+
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
 jobs:
-  generate-streak:
+  build:
     runs-on: ubuntu-latest
 
     permissions:
@@ -21,23 +21,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create generated assets directory
-        run: mkdir -p generated
-
-      - name: Generate streak statistics
+      - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
-
         with:
-          user: Ravneet-project
-          theme: github-dark-blue
-          hide_border: true
-          output: generated/streak-stats.svg
+          options: user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&disable_animations=true
+          path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated streak image
+      - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add generated/streak-stats.svg
-          git diff --cached --quiet || git commit -m "Update GitHub streak statistics"
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
           git push
