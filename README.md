@@ -448,6 +448,10 @@ commit id:"Deploy"
 # Career Objective
 
 To contribute as a Software Developer by building scalable applications, writing clean and maintainable code, collaborating with engineering teams, and continuously learning modern technologies while solving meaningful real-world problems.
+
+---
+
+> **"Great software is built through curiosity, consistency, and continuous improvement."**
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Ravneet-project&show_icons=true&hide_border=true)
@@ -459,7 +463,3 @@ To contribute as a Software Developer by building scalable applications, writing
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravneet-project&theme=github)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project)
-
----
-
-> **"Great software is built through curiosity, consistency, and continuous improvement."**
