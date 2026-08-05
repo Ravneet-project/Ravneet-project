@@ -573,11 +573,13 @@ gitGraph
 
 <div align="center">
 
-<img
-    src="./generated/streak-stats.svg"
+<a href="https://git.io/streak-stats">
+  <img
+    src="./profile/streak.svg"
     alt="Ravneet Sawhney GitHub Contribution Streak"
     width="80%"
-/>
+  />
+</a>
 
 </div>
 
@@ -587,15 +589,15 @@ gitGraph
 
 <div align="center">
 
-<img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&theme=github-dark&hide_border=true&area=true"
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&theme=github-compact&hide_border=true&area=true&custom_title=Ravneet%20Sawhney%27s%20Contribution%20Graph"
     alt="Ravneet Sawhney GitHub Contribution Activity"
     width="100%"
-/>
+  />
+</a>
 
 </div>
-
----
 
 ## Developer Query
 
