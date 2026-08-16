@@ -76,7 +76,7 @@ Building modern web applications, REST APIs and database-driven software solutio
 
 ---
 
-## GitHub Contributions
+## My Coding Journey
 
 <div align="center">
 
@@ -84,17 +84,17 @@ Building modern web applications, REST APIs and database-driven software solutio
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph-dark.svg"
+    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/robot-cat-contribution-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/robot-cat-contribution.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph.svg"
-    alt="Ravneet Sawhney Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/robot-cat-contribution.svg"
+    alt="Ravneet Sawhney GitHub Contribution Journey"
     width="100%"
   />
 
@@ -126,7 +126,7 @@ My development experience includes frontend development, backend development, RE
 
 I primarily work with the MERN stack while also having experience with PHP and MySQL.
 
-I enjoy transforming ideas into functional software solutions and continuously improving my knowledge of backend engineering, databases, Data Structures and Algorithms, and modern software development practices.
+I enjoy transforming ideas into functional software solutions while continuously improving my knowledge of backend engineering, databases, Data Structures and Algorithms, and modern software development practices.
 
 ```text
 Name          : Ravneet Sawhney
