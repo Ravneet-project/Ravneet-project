@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ravneet Sawhney
+# Ravneet Kaur
 
 ### Full Stack Developer | MERN Stack Developer | MCA Graduate 2025
 
