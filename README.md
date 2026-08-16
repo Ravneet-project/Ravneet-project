@@ -93,17 +93,14 @@ Building modern web applications, REST APIs and database-driven software solutio
   />
 
   <img
-    alt="Ravneet Sawhney Pacman Contribution Graph"
     src="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph.svg"
+    alt="Ravneet Sawhney Pacman Contribution Graph"
     width="100%"
   />
 
 </picture>
 
 </div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
