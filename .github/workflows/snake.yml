@@ -6,6 +6,12 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,16 +24,16 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Ravneet-project
-
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          branch: output
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
