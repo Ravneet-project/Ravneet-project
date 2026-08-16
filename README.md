@@ -101,6 +101,9 @@ Building modern web applications, REST APIs and database-driven software solutio
 </picture>
 
 </div>
+
+---
+
 ## Contribution Activity
 
 <div align="center">
@@ -117,11 +120,13 @@ Building modern web applications, REST APIs and database-driven software solutio
 
 ## About Me
 
-I am a Full Stack Developer focused on building scalable, responsive and maintainable web applications.
+I am a Full Stack Developer with a strong interest in building scalable, responsive and user-focused web applications.
 
-I work primarily with the MERN stack and also have experience with PHP and MySQL. My development interests include frontend development, backend APIs, database design, authentication, software architecture and problem solving.
+My development experience includes frontend development, backend development, REST API integration, database management and complete full-stack application development.
 
-I enjoy learning new technologies, improving existing projects and building practical applications that solve real-world problems.
+I primarily work with the MERN stack while also having experience with PHP and MySQL.
+
+I enjoy transforming ideas into functional software solutions and continuously improving my knowledge of backend engineering, databases, Data Structures and Algorithms, and modern software development practices.
 
 ```text
 Name          : Ravneet Sawhney
@@ -144,7 +149,7 @@ React.js • JavaScript ES6+ • TypeScript • HTML5 • CSS3 • Bootstrap •
 
 ### Backend Development
 
-Node.js • Express.js • PHP • RESTful APIs • Authentication • Authorization • Server-Side Development
+Node.js • Express.js • PHP • RESTful APIs • Server-Side Development • Authentication • Authorization
 
 ### Databases
 
@@ -184,7 +189,7 @@ The application helps users organize, manage and quickly access saved online res
 
 ### Personal Portfolio Website
 
-A responsive personal portfolio created to showcase my projects, technical skills and development experience.
+A responsive personal portfolio developed to showcase my projects, technical skills and development experience.
 
 **Technology Stack:** React.js, Vite, CSS3
 
@@ -195,7 +200,7 @@ A responsive personal portfolio created to showcase my projects, technical skill
 
 ### Academic Complaints Management System
 
-A web-based application designed to simplify complaint registration and tracking within educational institutions.
+A web-based complaint management application designed to simplify complaint registration and tracking within educational institutions.
 
 **Technology Stack:** HTML5, CSS3, JavaScript
 
@@ -203,31 +208,67 @@ A web-based application designed to simplify complaint registration and tracking
 
 ## Currently Working On
 
-- Production-ready MERN applications
-- REST API development
+- Building production-ready MERN applications
+- Developing REST APIs with Node.js and Express.js
 - Authentication and authorization
 - MongoDB and MySQL database design
 - Backend architecture
 - Data Structures and Algorithms
 - Problem solving
-- Clean and maintainable code
 - Software engineering best practices
+- Clean and maintainable code
 - Open-source learning
+
+---
+
+## Development Interests
+
+```text
+Full Stack Development
+Backend Engineering
+REST API Development
+Database Architecture
+MERN Stack Applications
+Software Engineering
+Data Structures & Algorithms
+Problem Solving
+System Design
+Open Source
+```
 
 ---
 
 ## Education
 
-### Master of Computer Applications
+### Master of Computer Applications (MCA)
 
 **Duration:** 2023 – 2025  
 **Status:** Completed
+
+Areas of study and interest include:
+
+- Software Development
+- Web Technologies
+- Database Management
+- Programming
+- Data Structures
+- Algorithms
+- Software Engineering
+- Problem Solving
+
+---
+
+## Career Objective
+
+My goal is to work as a Software Developer where I can apply my technical knowledge to real-world software products, collaborate with experienced developers and continuously improve as a software engineering professional.
+
+I am particularly interested in opportunities involving full-stack development, MERN applications, backend engineering, APIs and database-driven systems.
 
 ---
 
 ## Open To Opportunities
 
-I am currently open to:
+I am currently open to opportunities including:
 
 - Software Developer
 - Full Stack Developer
@@ -293,6 +334,6 @@ I am currently open to:
 
 ### Learn. Build. Test. Deploy. Improve.
 
-Building useful software through continuous learning and practical development.
+Building useful software through continuous learning, practical development and consistent improvement.
 
 </div>
