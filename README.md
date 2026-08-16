@@ -6,9 +6,9 @@
 
 Building modern web applications, REST APIs and database-driven software solutions.
 
-[Portfolio](https://ravneetportfolio.netlify.app) •
-[LinkedIn](https://www.linkedin.com/in/ravneet-kaur-aa2b332a8/) •
-[GitHub](https://github.com/Ravneet-project) •
+[Portfolio](https://ravneetportfolio.netlify.app) â€¢
+[LinkedIn](https://www.linkedin.com/in/ravneet-kaur-aa2b332a8/) â€¢
+[GitHub](https://github.com/Ravneet-project) â€¢
 [Email](mailto:ravneet.sawhney123@gmail.com)
 
 </div>
@@ -76,7 +76,7 @@ Building modern web applications, REST APIs and database-driven software solutio
 
 ---
 
-## My Coding Journey
+## GitHub Contributions
 
 <div align="center">
 
@@ -84,17 +84,17 @@ Building modern web applications, REST APIs and database-driven software solutio
 
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/developer-girl-contribution-dark.svg"
+    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph-dark.svg"
   />
 
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/developer-girl-contribution.svg"
+    srcset="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph.svg"
   />
 
   <img
-    src="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/developer-girl-contribution.svg"
-    alt="Ravneet Sawhney Coding Journey"
+    src="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph.svg"
+    alt="Ravneet Sawhney Pacman Contribution Graph"
     width="100%"
   />
 
@@ -109,8 +109,8 @@ Building modern web applications, REST APIs and database-driven software solutio
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&bg_color=ffffff&color=24292f&line=7c5cff&point=ff69b4&area=true&area_color=e9e1ff&hide_border=false&radius=10&custom_title=Ravneet%20Sawhney%27s%20Contribution%20Activity"
-  alt="Ravneet Sawhney Contribution Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&bg_color=ffffff&color=24292f&line=ff69b4&point=ff69b4&area=true&area_color=ffd6e8&hide_border=false&radius=10&custom_title=Ravneet%20Sawhney%27s%20Contribution%20Graph"
+  alt="Ravneet Sawhney Contribution Graph"
   width="100%"
 />
 
@@ -126,7 +126,7 @@ My development experience includes frontend development, backend development, RE
 
 I primarily work with the MERN stack while also having experience with PHP and MySQL.
 
-I enjoy transforming ideas into functional software solutions while continuously improving my knowledge of backend engineering, databases, Data Structures and Algorithms, and modern software development practices.
+I enjoy transforming ideas into functional software solutions and continuously improving my knowledge of backend engineering, databases, Data Structures and Algorithms, and modern software development practices.
 
 ```text
 Name          : Ravneet Sawhney
@@ -137,3 +137,203 @@ Primary Stack : MERN
 Other Stack   : PHP + MySQL
 Focus         : Full Stack Development, Backend APIs, DSA
 Status        : Open to Software Developer Opportunities
+```
+
+---
+
+## Technical Skills
+
+### Frontend Development
+
+React.js â€¢ JavaScript ES6+ â€¢ TypeScript â€¢ HTML5 â€¢ CSS3 â€¢ Bootstrap â€¢ Responsive Web Design
+
+### Backend Development
+
+Node.js â€¢ Express.js â€¢ PHP â€¢ RESTful APIs â€¢ Server-Side Development â€¢ Authentication â€¢ Authorization
+
+### Databases
+
+MongoDB â€¢ MySQL â€¢ Database Design â€¢ CRUD Operations â€¢ Schema Design â€¢ Query Optimization
+
+### Development Tools
+
+Git â€¢ GitHub â€¢ Postman â€¢ Visual Studio Code â€¢ npm â€¢ Vite â€¢ XAMPP
+
+### Core Concepts
+
+Data Structures â€¢ Algorithms â€¢ Object-Oriented Programming â€¢ REST APIs â€¢ Database Management â€¢ Problem Solving
+
+---
+
+## Featured Projects
+
+### FeedOne â€“ Donation Management System
+
+A web-based donation management platform designed to connect donors and NGOs through a centralized system.
+
+The application simplifies donation tracking, NGO coordination and administrative management.
+
+**Technology Stack:** PHP, MySQL, Bootstrap, JavaScript
+
+---
+
+### Smart Bookmark App
+
+A modern bookmark management application developed using TypeScript.
+
+The application helps users organize, manage and quickly access saved online resources.
+
+**Technology Stack:** TypeScript, JavaScript
+
+---
+
+### Personal Portfolio Website
+
+A responsive personal portfolio developed to showcase my projects, technical skills and development experience.
+
+**Technology Stack:** React.js, Vite, CSS3
+
+**Live Project:**  
+[Ravneet Portfolio](https://ravneetportfolio.netlify.app)
+
+---
+
+### Academic Complaints Management System
+
+A web-based complaint management application designed to simplify complaint registration and tracking within educational institutions.
+
+**Technology Stack:** HTML5, CSS3, JavaScript
+
+---
+
+## Currently Working On
+
+- Building production-ready MERN applications
+- Developing REST APIs with Node.js and Express.js
+- Authentication and authorization
+- MongoDB and MySQL database design
+- Backend architecture
+- Data Structures and Algorithms
+- Problem solving
+- Software engineering best practices
+- Clean and maintainable code
+- Open-source learning
+
+---
+
+## Development Interests
+
+```text
+Full Stack Development
+Backend Engineering
+REST API Development
+Database Architecture
+MERN Stack Applications
+Software Engineering
+Data Structures & Algorithms
+Problem Solving
+System Design
+Open Source
+```
+
+---
+
+## Education
+
+### Master of Computer Applications (MCA)
+
+**Duration:** 2023 â€“ 2025  
+**Status:** Completed
+
+Areas of study and interest include:
+
+- Software Development
+- Web Technologies
+- Database Management
+- Programming
+- Data Structures
+- Algorithms
+- Software Engineering
+- Problem Solving
+
+---
+
+## Career Objective
+
+My goal is to work as a Software Developer where I can apply my technical knowledge to real-world software products, collaborate with experienced developers and continuously improve as a software engineering professional.
+
+I am particularly interested in opportunities involving full-stack development, MERN applications, backend engineering, APIs and database-driven systems.
+
+---
+
+## Open To Opportunities
+
+I am currently open to opportunities including:
+
+- Software Developer
+- Full Stack Developer
+- MERN Stack Developer
+- Junior Software Engineer
+- Backend Developer
+- Web Developer
+- Software Development Internship
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ravneet-kaur-aa2b332a8/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+    width="55"
+    height="40"
+    alt="LinkedIn"
+  />
+</a>
+
+<img width="12" />
+
+<a href="mailto:ravneet.sawhney123@gmail.com">
+  <img
+    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+    width="55"
+    height="40"
+    alt="Gmail"
+  />
+</a>
+
+<img width="12" />
+
+<a href="https://ravneetportfolio.netlify.app" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=netlify"
+    width="48"
+    height="40"
+    alt="Portfolio"
+  />
+</a>
+
+<img width="12" />
+
+<a href="https://github.com/Ravneet-project" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    width="48"
+    height="40"
+    alt="GitHub"
+  />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Learn. Build. Test. Deploy. Improve.
+
+Building useful software through continuous learning, practical development and consistent improvement.
+
+</div>
