@@ -6,9 +6,9 @@
 
 Building modern web applications, REST APIs and database-driven software solutions.
 
-[Portfolio](https://ravneetportfolio.netlify.app) â€¢
-[LinkedIn](https://www.linkedin.com/in/ravneet-kaur-aa2b332a8/) â€¢
-[GitHub](https://github.com/Ravneet-project) â€¢
+[Portfolio](https://ravneetportfolio.netlify.app) ||
+[LinkedIn](https://www.linkedin.com/in/ravneet-kaur-aa2b332a8/) ||
+[GitHub](https://github.com/Ravneet-project) ||
 [Email](mailto:ravneet.sawhney123@gmail.com)
 
 </div>
