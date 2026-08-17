@@ -1,16 +1,10 @@
 name: Generate Pacman Contribution Graph
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/pacman.yml"
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   generate:
@@ -18,16 +12,15 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
 
     steps:
       - name: Generate Pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Ravneet-project
-          games: "pacman"
 
-      - name: Push Pacman SVGs to output branch
+      - name: Publish Pacman SVG files
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
