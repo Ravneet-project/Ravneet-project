@@ -157,7 +157,7 @@ MongoDB | MySQL | Database Design | CRUD Operations | Schema Design | Query Opti
 
 ### Development Tools
 
-Git | GitHub | Postman | Visual Studio Code â€¢ npm | Vite | XAMPP
+Git | GitHub | Postman | Visual Studio Code | npm | Vite | XAMPP
 
 ### Core Concepts
 
