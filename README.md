@@ -145,29 +145,29 @@ Status        : Open to Software Developer Opportunities
 
 ### Frontend Development
 
-React.js â€¢ JavaScript ES6+ â€¢ TypeScript â€¢ HTML5 â€¢ CSS3 â€¢ Bootstrap â€¢ Responsive Web Design
+React.js | JavaScript ES6+ | TypeScript | HTML5 | CSS3 | Bootstrap | Responsive Web Design
 
 ### Backend Development
 
-Node.js â€¢ Express.js â€¢ PHP â€¢ RESTful APIs â€¢ Server-Side Development â€¢ Authentication â€¢ Authorization
+Node.js | Express.js | PHP | RESTful APIs | Server-Side Development | Authentication | Authorization
 
 ### Databases
 
-MongoDB â€¢ MySQL â€¢ Database Design â€¢ CRUD Operations â€¢ Schema Design â€¢ Query Optimization
+MongoDB | MySQL | Database Design | CRUD Operations | Schema Design | Query Optimization
 
 ### Development Tools
 
-Git â€¢ GitHub â€¢ Postman â€¢ Visual Studio Code â€¢ npm â€¢ Vite â€¢ XAMPP
+Git | GitHub | Postman | Visual Studio Code â€¢ npm | Vite | XAMPP
 
 ### Core Concepts
 
-Data Structures â€¢ Algorithms â€¢ Object-Oriented Programming â€¢ REST APIs â€¢ Database Management â€¢ Problem Solving
+Data Structures | Algorithms | Object-Oriented Programming | REST APIs | Database Management | Problem Solving
 
 ---
 
 ## Featured Projects
 
-### FeedOne â€“ Donation Management System
+### FeedOne || Donation Management System
 
 A web-based donation management platform designed to connect donors and NGOs through a centralized system.
 
