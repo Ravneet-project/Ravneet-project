@@ -104,25 +104,7 @@ Building modern web applications, REST APIs and database-driven software solutio
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Ravneet-project&show_icons=true&hide_border=true"
-  alt="Ravneet Kaur GitHub Stats"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravneet-project&layout=compact&hide_border=true"
-  alt="Ravneet Kaur Top Languages"
-/>
-
-</div>
-
----
 
 ## About Me
 
