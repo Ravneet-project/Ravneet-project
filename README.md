@@ -106,7 +106,15 @@ Building modern web applications, REST APIs and database-driven software solutio
 
 ## Contribution Activity
 
-</>Markdown
+## Contribution Activity
+
+<div align="center">
+
+[![Ravneet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project)](https://github.com/Ravneet-project) 
+ 
+</div> 
+ 
+
 
 ## About Me
 
