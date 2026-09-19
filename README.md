@@ -106,17 +106,7 @@ Building modern web applications, REST APIs and database-driven software solutio
 
 ## Contribution Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project&bg_color=ffffff&color=24292f&line=ff69b4&point=ff69b4&area=true&area_color=ffd6e8&hide_border=false&radius=10&custom_title=Ravneet%20Sawhney%27s%20Contribution%20Graph"
-  alt="Ravneet Sawhney Contribution Graph"
-  width="100%"
-/>
-
-</div>
-
----
+</>Markdown
 
 ## About Me
 
