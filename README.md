@@ -94,7 +94,7 @@ Building modern web applications, REST APIs and database-driven software solutio
 
   <img
     src="https://raw.githubusercontent.com/Ravneet-project/Ravneet-project/output/pacman-contribution-graph.svg"
-    alt="Ravneet Sawhney Pacman Contribution Graph"
+    alt="Ravneet Kaur Pacman Contribution Graph"
     width="100%"
   />
 
@@ -104,17 +104,25 @@ Building modern web applications, REST APIs and database-driven software solutio
 
 ---
 
-## Contribution Activity
-
-## Contribution Activity
+## GitHub Stats
 
 <div align="center">
 
-[![Ravneet's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravneet-project)](https://github.com/Ravneet-project) 
- 
-</div> 
- 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ravneet-project&show_icons=true&hide_border=true"
+  alt="Ravneet Kaur GitHub Stats"
+/>
 
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravneet-project&layout=compact&hide_border=true"
+  alt="Ravneet Kaur Top Languages"
+/>
+
+</div>
+
+---
 
 ## About Me
 
@@ -127,7 +135,7 @@ I primarily work with the MERN stack while also having experience with PHP and M
 I enjoy transforming ideas into functional software solutions and continuously improving my knowledge of backend engineering, databases, Data Structures and Algorithms, and modern software development practices.
 
 ```text
-Name          : Ravneet Sawhney
+Name          : Ravneet Kaur
 Role          : Full Stack Developer
 Education     : Master of Computer Applications
 Graduation    : 2025
@@ -240,7 +248,7 @@ Open Source
 
 ### Master of Computer Applications (MCA)
 
-**Duration:** 2023 â€“ 2025  
+**Duration:** 2023 - 2025  
 **Status:** Completed
 
 Areas of study and interest include:
