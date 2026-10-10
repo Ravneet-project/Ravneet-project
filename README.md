@@ -116,7 +116,7 @@ I primarily work with the MERN stack while also having experience with PHP and M
 
 I enjoy transforming ideas into functional software solutions and continuously improving my knowledge of backend engineering, databases, Data Structures and Algorithms, and modern software development practices.
 
-```text
+
 Name          : Ravneet Kaur
 Role          : Full Stack Developer
 Education     : Master of Computer Applications
